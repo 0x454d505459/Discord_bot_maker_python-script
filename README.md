@@ -8,7 +8,7 @@
 * [ ] Internet connection (to install required librairies)
 
 ## Installation
- - Clone this repo with `git clone repo`
+ - Clone this repo with `git clone https://github.com/TheFourchette/Discord_bot_maker_python-script.git`
  - Cd open the `Disccord_bot_maker_python-script` with your file explorer
  - Open a terminal/command prompt here
  - use `pip install REQUIREMENTS.txt`
