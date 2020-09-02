@@ -1,0 +1,9 @@
+PyQt5
+os
+shutil
+threading
+playsound
+sys
+npm
+json
+nodejs
